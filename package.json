@@ -1,0 +1,17 @@
+{
+  "name": "umr-todo-app",
+  "version": "1.0.0",
+  "description": "todo app is for listing you groccery setup",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "umar",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.17",
+    "umr-todo-app": "^1.0.0",
+    "umr3simple-calculator": "^1.0.1"
+  }
+}
